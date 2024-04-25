@@ -4,10 +4,10 @@ BankApp is a simple banking system simulation featuring both command-line and gr
 
 ## Features
 
-- **Open new bank accounts** with different types (checking, savings)
-- **Execute banking transactions** such as deposits and withdrawals
-- **View transaction history** for each bank account
-- **Calculate interests and fees** on accounts based on predefined rules
+- Open new bank accounts with different types (checking, savings)
+- Execute banking transactions such as deposits and withdrawals
+- View transaction history for each bank account
+- Calculate interests and fees on accounts based on predefined rules
 - Error handling and logging for debugging and tracking operations
 
 ![Alt Text](https://github.com/isinyavin/bankapp/blob/main/bankvideo.gif))
