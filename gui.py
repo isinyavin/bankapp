@@ -25,13 +25,13 @@ class BankGUI:
         self._selected_account = None
         #sets up the main window and general characteristics
         self._window = tk.Tk()
-        self._window.title("Sinyavin Bank")
+        self._window.title("Bank")
         self._window.geometry("500x500") 
         self._window.configure(bg='#f0f0f0')
         self._top_frame = tk.Frame(self._window, bg = '#f0f0f0')
         self._top_frame.pack(side=tk.TOP, fill=tk.X)
         my_font = font.Font(family="Helvetica", size=24, weight="bold")
-        self._logo_label = tk.Label(self._top_frame, text="Sinyavin Bank", font=my_font, bg = '#f0f0f0', fg='black')
+        self._logo_label = tk.Label(self._top_frame, text="Bank", font=my_font, bg = '#f0f0f0', fg='black')
         self._logo_label.pack(side=tk.LEFT, padx=10)
 
         #style

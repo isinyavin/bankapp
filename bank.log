@@ -1,50 +1,51 @@
-
-2024-03-02 16:20:27|DEBUG|Saved to bank.db
-2024-03-02 16:20:29|DEBUG|Created account: 1
-2024-03-02 16:20:29|DEBUG|Saved to bank.db
-2024-03-02 16:20:32|DEBUG|Created account: 2
-2024-03-02 16:20:32|DEBUG|Saved to bank.db
-2024-03-02 16:20:34|DEBUG|Created account: 3
-2024-03-02 16:20:34|DEBUG|Saved to bank.db
-2024-03-02 16:20:43|DEBUG|Created transaction: 2, 900
-2024-03-02 16:20:43|DEBUG|Saved to bank.db
-2024-03-02 16:20:47|DEBUG|Created transaction: 2, 909
-2024-03-02 16:20:47|DEBUG|Saved to bank.db
-2024-03-02 16:20:57|DEBUG|Created transaction: 2, 4344
-2024-03-02 16:20:57|DEBUG|Saved to bank.db
-2024-03-02 16:21:08|DEBUG|Created transaction: 2, 333
-2024-03-02 16:21:08|DEBUG|Saved to bank.db
-2024-03-02 16:21:13|DEBUG|Created transaction: 2, 223
-2024-03-02 16:21:13|DEBUG|Saved to bank.db
-2024-03-02 16:21:15|DEBUG|Created transaction: 2, 27.50690000000000
-2024-03-02 16:21:15|DEBUG|Triggered interest and fees
-2024-03-02 16:21:15|DEBUG|Saved to bank.db
-2024-03-02 22:01:44|DEBUG|Loaded from bank.db
-2024-03-03 12:27:41|DEBUG|Loaded from bank.db
-2024-03-03 12:27:44|DEBUG|Created account: 4
-2024-03-03 12:27:44|DEBUG| 
-2024-03-03 12:27:46|DEBUG|Created account: 5
-2024-03-03 12:27:46|DEBUG| 
-2024-03-03 12:27:48|DEBUG|Created account: 6
-2024-03-03 12:27:48|DEBUG| 
-2024-03-03 12:27:51|DEBUG|Created account: 7
-2024-03-03 12:27:51|DEBUG| 
-2024-03-03 12:30:05|DEBUG|Loaded from bank.db
-2024-03-03 12:30:08|DEBUG|Created account: 8
-2024-03-03 12:30:08|DEBUG|Saved to bank.db
-2024-03-03 12:30:10|DEBUG|Created account: 9
-2024-03-03 12:30:10|DEBUG|Saved to bank.db
-2024-03-03 12:30:12|DEBUG|Created account: 10
-2024-03-03 12:30:12|DEBUG|Saved to bank.db
-2024-03-03 12:30:14|DEBUG|Created account: 11
-2024-03-03 12:30:14|DEBUG|Saved to bank.db
-2024-03-03 13:51:18|DEBUG|Loaded from bank.db
-2024-03-03 13:51:53|DEBUG|Created transaction: 2, 4
-2024-03-03 13:51:53|DEBUG|Saved to bank.db
-2024-03-03 13:51:54|DEBUG|Created transaction: 2, 27.63607829000000
-2024-03-03 13:51:54|DEBUG|Triggered interest and fees
-2024-03-03 13:51:54|DEBUG|Saved to bank.db
-2024-03-03 13:54:02|DEBUG|Created account: 12
-2024-03-03 13:54:02|DEBUG|Saved to bank.db
-2024-03-03 13:54:11|DEBUG|Created account: 13
-2024-03-03 13:54:11|DEBUG|Saved to bank.db
+2024-04-25 01:59:02|ERROR|TclError: 'couldn't recognize data in image file "bank-flat.png"'
+2024-04-25 01:59:15|ERROR|TclError: 'couldn't recognize data in image file "bank-flat.png"'
+2024-04-25 02:00:06|ERROR|TclError: 'couldn't recognize data in image file "bank-flat.png"'
+2024-04-25 02:00:32|ERROR|TclError: 'couldn't recognize data in image file "bank-flat.png"'
+2024-04-25 02:01:11|DEBUG|Loaded from bank.db
+2024-04-25 02:01:33|DEBUG|Saved to bank.db
+2024-04-25 02:13:24|DEBUG|Loaded from bank.db
+2024-04-25 02:13:31|DEBUG|Created account: 1
+2024-04-25 02:13:31|DEBUG|Saved to bank.db
+2024-04-25 02:13:34|DEBUG|Created account: 2
+2024-04-25 02:13:34|DEBUG|Saved to bank.db
+2024-04-25 02:13:37|DEBUG|Created account: 3
+2024-04-25 02:13:37|DEBUG|Saved to bank.db
+2024-04-25 02:13:46|DEBUG|Created transaction: 2, 400
+2024-04-25 02:13:46|DEBUG|Saved to bank.db
+2024-04-25 02:13:57|DEBUG|Created transaction: 2, 500
+2024-04-25 02:13:57|DEBUG|Saved to bank.db
+2024-04-25 02:13:59|DEBUG|Created transaction: 2, 0.72000000000000
+2024-04-25 02:13:59|DEBUG|Triggered interest and fees
+2024-04-25 02:13:59|DEBUG|Saved to bank.db
+2024-04-25 02:15:50|DEBUG|Loaded from bank.db
+2024-04-25 02:16:11|DEBUG|Loaded from bank.db
+2024-04-25 02:17:01|DEBUG|Created account: 4
+2024-04-25 02:17:01|DEBUG|Saved to bank.db
+2024-04-25 02:17:35|DEBUG|Saved to bank.db
+2024-04-25 02:17:42|DEBUG|Created account: 1
+2024-04-25 02:17:42|DEBUG|Saved to bank.db
+2024-04-25 02:17:45|DEBUG|Created account: 2
+2024-04-25 02:17:45|DEBUG|Saved to bank.db
+2024-04-25 02:17:50|DEBUG|Created transaction: 1, 600
+2024-04-25 02:17:50|DEBUG|Saved to bank.db
+2024-04-25 02:17:55|DEBUG|Created transaction: 1, 700
+2024-04-25 02:17:55|DEBUG|Saved to bank.db
+2024-04-25 02:18:01|DEBUG|Created transaction: 1, 200
+2024-04-25 02:18:01|DEBUG|Saved to bank.db
+2024-04-25 02:18:03|DEBUG|Created transaction: 1, 1.20000000000000
+2024-04-25 02:18:03|DEBUG|Triggered interest and fees
+2024-04-25 02:18:03|DEBUG|Saved to bank.db
+2024-04-25 02:18:14|DEBUG|Created transaction: 2, 200
+2024-04-25 02:18:14|DEBUG|Saved to bank.db
+2024-04-25 02:18:20|DEBUG|Created transaction: 2, 300
+2024-04-25 02:18:20|DEBUG|Saved to bank.db
+2024-04-25 02:18:33|DEBUG|Created transaction: 2, 200
+2024-04-25 02:18:33|DEBUG|Saved to bank.db
+2024-04-25 02:18:35|DEBUG|Created transaction: 2, 2.87000000000000
+2024-04-25 02:18:35|DEBUG|Triggered interest and fees
+2024-04-25 02:18:35|DEBUG|Saved to bank.db
+2024-04-25 02:18:40|DEBUG|Created account: 3
+2024-04-25 02:18:40|DEBUG|Saved to bank.db
+2024-04-25 02:18:47|DEBUG|Created transaction: 1, -500
+2024-04-25 02:18:47|DEBUG|Saved to bank.db
