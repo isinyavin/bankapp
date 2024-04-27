@@ -10,4 +10,4 @@ BankApp is a simple banking system simulation featuring both command-line and gr
 - Calculate interests and fees on accounts based on predefined rules
 - Error handling and logging for debugging and tracking operations
 
-![Alt Text](https://github.com/isinyavin/bankapp/blob/main/bankvideo.gif))
+![Alt Text](https://github.com/isinyavin/bankapp/blob/main/bankvideo2.gif))

@@ -36,7 +36,7 @@ class BankGUI:
 
         #style
         self._style = ttk.Style(self._window)
-        self._style.theme_use('clam')
+        self._style.theme_use('default')
         
         #sets up logo
         self._logo_image = tk.PhotoImage(file="bank-flat.png") 
