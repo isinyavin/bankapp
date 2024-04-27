@@ -49,3 +49,7 @@
 2024-04-25 02:18:40|DEBUG|Saved to bank.db
 2024-04-25 02:18:47|DEBUG|Created transaction: 1, -500
 2024-04-25 02:18:47|DEBUG|Saved to bank.db
+2024-04-26 15:31:17|DEBUG|Loaded from bank.db
+2024-04-26 15:31:24|DEBUG|Created account: 4
+2024-04-26 15:31:24|DEBUG|Saved to bank.db
+2024-04-26 21:54:46|DEBUG|Loaded from bank.db
